@@ -4,3 +4,5 @@
 /.nrepl-port
 /.cpcache
 /metabase
+/.idea
+.DS_Store
